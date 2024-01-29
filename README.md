@@ -1,0 +1,14 @@
+# msm8916_64-user 5.1.1 LMY47V eng.spwork.20160301.151645 release-keys
+- manufacturer: ark electronic technology
+- platform: msm8916
+- codename: ARK
+- flavor: msm8916_64-user
+- release: 5.1.1
+- id: LMY47V
+- incremental: eng.spwork.20160301.151645
+- tags: release-keys
+- fingerprint: ARK/ARK/ARK:5.1.1/LMY47V/spwork03011518:user/release-keys
+- is_ab: false
+- brand: ARK
+- branch: msm8916_64-user-5.1.1-LMY47V-eng.spwork.20160301.151645-release-keys
+- repo: ark_ark_dump
